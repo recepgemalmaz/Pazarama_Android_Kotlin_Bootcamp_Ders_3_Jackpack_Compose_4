@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pazarama_Bootcamp_Ders_3_Compose_1</string>
+    <string name="title_activity_other">OtherActivity</string>
+
+    <string name="user">Kullanıcı Adınız</string>
+
+    <string name="pass">Şifreniz</string>
+
+    <string name="err">İsim veya şifre hatalı</string>
+</resources>
